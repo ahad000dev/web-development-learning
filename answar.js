@@ -9,7 +9,6 @@ function describeValue(val){
 console.log(describeValue(false));
 
 
-
 function getDayType(val) {
     switch (val) {
         case "Saturday":
